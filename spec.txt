@@ -1,0 +1,12 @@
+p2p port: 15884
+rpc:      8385
+testnet port: 15882
+testnet rpc: 8386
+
+block reward: 50 coin
+
+1.5% stake
+
+6 minutes retartget : 120 blocks
+Max money 5 million
+max block / day : 3000
